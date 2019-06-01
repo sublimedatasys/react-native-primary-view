@@ -24,6 +24,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "This is a simple react native primary view using star war api.",
+    "githubUrl": "https://github.com/mahendrapratap4022/react-native-primary-view/"
   }
 }
