@@ -9,7 +9,7 @@ export default StyleSheet.create({
     alignContent: 'center',
     width: '100%',
     height: 20,
-    marginTop: Platform.OS === 'ios' ? 15 : Constants.statusBarHeight,
+    marginTop: Platform.OS === 'ios' ? 30 : Constants.statusBarHeight,
     paddingBottom: 25,
     marginBottom:13,
     paddingTop: 25,
