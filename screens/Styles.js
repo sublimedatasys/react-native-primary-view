@@ -7,10 +7,12 @@ export default StyleSheet.create({
     justifyContent: 'center',
     height: 20,
     marginTop: Platform.OS === 'ios' ? 30 : Constants.statusBarHeight,
+    paddingBottom: 10,
     marginBottom:13,
+    paddingTop: 10,
     elevation: 3,  
     zIndex:999,  
-    backgroundColor: "red",
+    backgroundColor: "#00a1d7",
   },
   HeadertitleStyle: {
     fontWeight: 'bold',
