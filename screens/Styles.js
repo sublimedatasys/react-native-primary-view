@@ -5,17 +5,12 @@ export default StyleSheet.create({
   HeadercontainerStyle: {
     flexDirection: 'row',
     justifyContent: 'center',
-    alignItems: 'flex-start',
-    alignContent: 'center',
-    width: '100%',
     height: 20,
     marginTop: Platform.OS === 'ios' ? 30 : Constants.statusBarHeight,
-    paddingBottom: 25,
     marginBottom:13,
-    paddingTop: 25,
     elevation: 3,  
     zIndex:999,  
-    backgroundColor: "#00a1d7",
+    backgroundColor: "red",
   },
   HeadertitleStyle: {
     fontWeight: 'bold',
