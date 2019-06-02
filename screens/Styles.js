@@ -5,7 +5,7 @@ export default StyleSheet.create({
   HeadercontainerStyle: {
     flexDirection: 'row',
     justifyContent: 'center',
-    height: 35,
+    height: 45,
     marginTop: Platform.OS === 'ios' ? 30 : Constants.statusBarHeight,
     paddingBottom: 5,
     marginBottom:13,
@@ -26,6 +26,14 @@ export default StyleSheet.create({
       alignItems: 'center',
       justifyContent: 'center',
     },
+    title:{
+      fontSize:15,
+      marginLeft:10,
+      marginRight:10,
+      fontWeight:'bold',
+      marginBottom:10,
+      padding:10,
+    },
     listView:{
       marginLeft:10,
       marginRight:10,
@@ -44,7 +52,7 @@ export default StyleSheet.create({
       padding:8,
       borderWidth:1,
       borderRadius:2,
-      borderColor:'#FFCC01',
+      borderColor:'#ffeb9c',
     },
     textContainer: {
       flexDirection: 'row',
