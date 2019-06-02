@@ -41,7 +41,7 @@ export default StyleSheet.create({
     },
     ListItem:{
       marginBottom:10,
-      padding:5,
+      padding:8,
       borderWidth:1,
       borderRadius:2,
       borderColor:'#FFCC01',
