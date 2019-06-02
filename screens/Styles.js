@@ -32,7 +32,7 @@ export default StyleSheet.create({
       marginBottom:10,
       padding:10,
       borderRadius:5,
-      backgroundColor:'#eee'
+      backgroundColor:'#fafafb'
     },
     dateStyle:{
       fontSize: 12,
@@ -44,7 +44,7 @@ export default StyleSheet.create({
       padding:5,
       borderWidth:1,
       borderRadius:2,
-      borderColor:'#dfdfdf',
+      borderColor:'#FFCC01',
     },
     textContainer: {
       flexDirection: 'row',
