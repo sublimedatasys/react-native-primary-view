@@ -61,7 +61,7 @@ export default StyleSheet.create({
     amountText:{
       lineHeight:19,
       fontSize:19,
-      marginLeft:8,
+      marginLeft:4,
     },
     iconStyle:{
       paddingTop:10  
