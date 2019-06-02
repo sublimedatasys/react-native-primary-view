@@ -4,3 +4,5 @@ This is a simple react native primary view bolierplate project using star war ap
 
 Api - https://swapi.co/api/planets
 
+![](screens/assets/Screenshot_20190602-195750.png)
+
