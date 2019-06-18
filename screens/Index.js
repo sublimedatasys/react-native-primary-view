@@ -12,7 +12,7 @@ export default class Index extends React.Component {
   render() {
     return (
       <View style={{flex:1, marginBottom:70}}>
-        <Header title="TechFlex Solutions Challenge" />
+        <Header title="Sample App" />
         <Text style={style.title}>{this.props.title} Title</Text>
         <View style={style.listView}>
             <ListView />
